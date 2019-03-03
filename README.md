@@ -10,5 +10,5 @@ In this project, I used Tabu Search and Sector Scan to plan routes.
 虽然使用的是Matlab代码，但是原版其实是来自 数据魔术师 的C++代码，感谢数据魔术师救我一命2333
 
 #### 操作方法
-使用Main_Function启动文件
-input_distance-time.txt, input_node.xlsx, input_vehicle_type.xlsx 为输入的题目信息
+使用Main_Function启动文件  
+input_distance-time.txt, input_node.xlsx, input_vehicle_type.xlsx 为输入的路径、节点、车辆信息
